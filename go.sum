@@ -1,0 +1,4 @@
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/tushar2708/altcsv v0.0.0-20190930232535-20830d2e2c68 h1:MQz3uImDPzHNR3v+w3f1QDDiSCsrxH8UeuqR7UsMWhA=
+github.com/tushar2708/altcsv v0.0.0-20190930232535-20830d2e2c68/go.mod h1:V0EQRbXxfDgzg5nmAixejpBOgZd8ZURPLuJlL8jrT5U=
